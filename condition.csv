@@ -1,0 +1,118 @@
+Word order|Adpositions|Prep	N	N
+Word order|Adpositions|Post	N	N
+Word order|Noun-adjective|NA	N	N
+Word order|Noun-adjective|AN	N	N
+Word order|Noun-relative clause|NRel	N	N
+Word order|Noun-relative clause|RelN	N	N
+Word order|Noun-Possessor|N-Poss	N	N
+Word order|Noun-Possessor|Poss-N	N	N
+Word order|WH-element|WH-initial	N	N
+Word order|WH-element|WH-V	N	N
+Word order|Main clauses|SVO	N	N
+Word order|Main clauses|V2	N	N
+Word order|Main clauses|VSO	N	N
+Word order|Main clauses|SOV	N	N
+Word order|Subordinate clause|SVO	N	N
+Word order|Subordinate clause|V2	N	N
+Word order|Subordinate clause|VSO	N	N
+Word order|Subordinate clause|SOV	N	N
+Word order|Infinitive|VO	N	N
+Word order|Infinitive|OV	N	N
+Word order|Participle|VO	N	N
+Word order|Participle|OV	N	N
+Word order|Clitic pronouns finite verb|VO	N	N
+Word order|Clitic pronouns finite verb|OV	N	N
+Word order|Clitic pronouns finite verb|2nd position	N	N
+Word order|Clitic pronouns infinitive|VO	N	N
+Word order|Clitic pronouns infinitive|OV	N	N
+Word order|Clitic pronouns infinitive|2nd position	N	N
+Word order|Clitic pronouns participle|VO	N	N
+Word order|Clitic pronouns participle|OV	N	N
+Word order|Clitic pronouns participle|2nd position	N	N
+Nominal morphology|Nominal cases|O-case	C	S
+Nominal morphology|Nominal cases|DAT	C	S
+Nominal morphology|Nominal cases|GEN	C	S
+Nominal morphology|Nominal cases|GEN/DAT	C	S
+Nominal morphology|Nominal cases|VOC	C	S
+Nominal morphology|Nominal cases|OBL-Cases	C	S
+Nominal morphology|Nominal cases|<7 Cases	C	S
+Nominal morphology|Nominal cases|AGGL.CASE	S	N
+Nominal morphology|Nominal cases|AGG.CASE.NR	S	N
+Nominal morphology|Pronominal Cases|A≠O	C	S
+Nominal morphology|Pronominal Cases|DAT≠O	C	S
+Nominal morphology|Pronominal Cases|VOC	C	S
+Nominal morphology|Pronominal Cases|OBL-Cases	C	S
+Nominal morphology|Pronominal Cases|<7 Cases	C	S
+Nominal morphology|Pronominal Cases|AGGL.CASE	N	N
+Nominal morphology|Pronominal Cases|AGGL.CASE.NR	N	N
+Nominal morphology|Case marking|CASE-LAST	C	S
+Nominal morphology|Case marking|CASE-FIRST	C	S
+Nominal morphology|Case marking|CASE-N	C	S
+Nominal morphology|Case marking|CASE-ADJ	C	S
+Nominal morphology|Case marking|CASE-ART	C	S
+Nominal morphology|Gender / Noun class|M/F	C	S
+Nominal morphology|Gender / Noun class|NEUTR	C	S
+Nominal morphology|Gender / Noun class|ANIM	C	S
+Nominal morphology|Gender / Noun class|<5 GENDER	C	S
+Nominal morphology|Definiteness marking|DEF.ART	N	N
+Nominal morphology|Definiteness marking|N-DEF	N	N
+Nominal morphology|Definiteness marking|ADJ-DEF	C	S
+Nominal morphology|Definiteness marking|DEF-LAST	C	S
+Nominal morphology|Definiteness marking|DEF-FIRST	C	S
+Nominal morphology|Gender agreement|PRED-ADJ	C	S
+Nominal morphology|Preposition agreement|PRON-AGR	C	S
+Verbal morphology|simple PAST, A|PST:A-AGR-FULL	C	S
+Verbal morphology|simple PAST, A|PST:NO-A-AGR	S	C
+Verbal morphology|simple PAST, A|PST:A-Gender-AGR	C	S
+Verbal morphology|simple PAST, O|PST:O-AGR-FULL	C	S
+Verbal morphology|simple PAST, O|PST:NO-O-AGR	S	C
+Verbal morphology|simple PAST, O|PST:O-Gender-AGR	C	S
+Verbal morphology|simple PAST, DAT|PST:DAT-AGR-FULL	C	S
+Verbal morphology|simple PAST, DAT|PST:NO-DAT-AGR	S	C
+Verbal morphology|simple PAST, DAT|PST:DAT-Gender-AGR	C	S
+Verbal morphology|present progressive, A|PROG:A-AGR-FULL	C	S
+Verbal morphology|present progressive, A|PROG:NO-A-AGR	S	C
+Verbal morphology|present progressive, A|PROG:A-Gender-AGR	C	S
+Verbal morphology|present progressive, O|PROG:O-AGR-FULL	C	S
+Verbal morphology|present progressive, O|PROG:NO-O-AGR	S	C
+Verbal morphology|present progressive, O|PROG:O-Gender-AGR	C	S
+Verbal morphology|present progressive, DAT|PROG:DAT-AGR-FULL	C	S
+Verbal morphology|present progressive, DAT|PROG:NO-DAT-AGR	S	C
+Verbal morphology|present progressive, DAT|PROG:DAT-Gender-AGR	C	S
+Verbal morphology|Allocutive agreement|ALLOC	C	S
+TENSE|Future|FUT.AUX	N	N
+TENSE|Future|PERF.FUT	N	N
+TENSE|Future|FUT.Participle	N	N
+TENSE|Future|FUT.Particle	N	N
+TENSE|Future|FUT.Synth	N	N
+TENSE|Continous present|Present ????	N	N
+TENSE|Continous present|Progressive present	N	N
+ALIGNMENT|Noun: Simple Past|N:PST:A=O?	S	C
+ALIGNMENT|Noun: Simple Past|N:PST:A=Sa?	S	C
+ALIGNMENT|Noun: Simple Past|N:PST: O=So?	S	C
+ALIGNMENT|Noun: Simple Past|N:PST:Sa=So?	S	C
+ALIGNMENT|Noun: Present Progressive|N:PROG:A=O?	S	C
+ALIGNMENT|Noun: Present Progressive|N:PROG:A=Sa?	S	C
+ALIGNMENT|Noun: Present Progressive|N:PROG: O=So?	S	C
+ALIGNMENT|Noun: Present Progressive|N:PROG:Sa=So?	S	C
+ALIGNMENT|Pronoun: Simple Past|P:PST:A=O?	S	C
+ALIGNMENT|Pronoun: Simple Past|P:PST:A=Sa?	S	C
+ALIGNMENT|Pronoun: Simple Past|P:PST: O=So?	S	C
+ALIGNMENT|Pronoun: Simple Past|P:PST:Sa=So?	S	C
+ALIGNMENT|Pronoun: Present Progressive|P:PROG:A=O?	S	C
+ALIGNMENT|Pronoun: Present Progressive|P:PROG:A=Sa?	S	C
+ALIGNMENT|Pronoun: Present Progressive|P:PROG: O=So?	S	C
+ALIGNMENT|Pronoun: Present Progressive|P:PROG:Sa=So?	S	C
+ALIGNMENT|Verb: Simple Past|V:PST:A=O?	S	C
+ALIGNMENT|Verb: Simple Past|V:PST:A=Sa?	S	C
+ALIGNMENT|Verb: Simple Past|V:PST: O=So?	S	C
+ALIGNMENT|Verb: Simple Past|V:PST:Sa=So?	S	C
+ALIGNMENT|Verb: Present Progressive|V:PROG:A=O?	S	C
+ALIGNMENT|Verb: Present Progressive|V:PROG:A=Sa?	S	C
+ALIGNMENT|Verb: Present Progressive|V:PROG: O=So?	S	C
+ALIGNMENT|Verb: Present Progressive|V:PROG:Sa=So?	S	C
+ALIGNMENT|Compare PROG-PAST|PROG_So=PST_So	S	C
+ALIGNMENT|Compare PROG-PAST|PROG_A=PST_O	C	S
+ALIGNMENT|Compare PROG-PAST|PAST_A=PROG_O	C	S
+ALIGNMENT|Reflexive Pronoun in trans. Clause|REFL-ref-A	N	N
+ALIGNMENT|Reflexive Pronoun in trans. Clause|REFL-ref-O	N	N

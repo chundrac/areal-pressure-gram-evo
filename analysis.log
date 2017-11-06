@@ -1,0 +1,589 @@
+usage: python simulate_distances.py [seed]
+setting seed to default of 0
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5036.987
+Random effects:
+ Groups   Name        Std.Dev. 
+ iter     (Intercept) 6.508e-03
+ featvar  (Intercept) 1.232e-01
+ tree     (Intercept) 3.158e-24
+ grid     (Intercept) 2.462e-02
+ change   (Intercept) 1.672e-02
+ Residual             2.747e-01
+Number of obs: 18322, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01108      0.02581      0.02178  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    5034.6                 
+SNvsC   1 5037.0 4.4716 0.03446 *
+SvsN    1 5033.4 0.8350 0.36084  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5350.587
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.000000
+ featvar  (Intercept) 0.126886
+ tree     (Intercept) 0.003137
+ grid     (Intercept) 0.017089
+ change   (Intercept) 0.014689
+ Residual             0.277079
+Number of obs: 18317, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01128      0.02807      0.02312  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    5347.8                 
+SNvsC   1 5351.2 5.4127 0.01999 *
+SvsN    1 5347.0 1.1255 0.28874  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5183.645
+Random effects:
+ Groups   Name        Std.Dev. 
+ iter     (Intercept) 0.000e+00
+ featvar  (Intercept) 1.283e-01
+ tree     (Intercept) 0.000e+00
+ grid     (Intercept) 3.777e-06
+ change   (Intercept) 1.731e-02
+ Residual             2.757e-01
+Number of obs: 18382, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.010472     0.034888     0.002457  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT  Pr(Chi)   
+<none>    5180.8                   
+SNvsC   1 5187.0 8.1920 0.004207 **
+SvsN    1 5178.9 0.0198 0.888012   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 4998.299
+Random effects:
+ Groups   Name        Std.Dev. 
+ iter     (Intercept) 8.086e-08
+ featvar  (Intercept) 1.234e-01
+ tree     (Intercept) 0.000e+00
+ grid     (Intercept) 1.841e-02
+ change   (Intercept) 2.176e-02
+ Residual             2.740e-01
+Number of obs: 18538, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.007376     0.040618     0.005706  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC     LRT  Pr(Chi)    
+<none>    4995.8                     
+SNvsC   1 5004.6 10.8295 0.000999 ***
+SvsN    1 4993.9  0.0439 0.834083    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5564.04
+Random effects:
+ Groups   Name        Std.Dev. 
+ iter     (Intercept) 0.0002319
+ featvar  (Intercept) 0.1220599
+ tree     (Intercept) 0.0046108
+ grid     (Intercept) 0.0374492
+ change   (Intercept) 0.0206041
+ Residual             0.2785950
+Number of obs: 18375, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01407      0.01767      0.05423  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    5562.1                 
+SNvsC   1 5562.1 1.9810 0.15929  
+SvsN    1 5563.9 3.7894 0.05158 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 6320.755
+Random effects:
+ Groups   Name        Std.Dev. 
+ iter     (Intercept) 2.644e-08
+ featvar  (Intercept) 1.232e-01
+ tree     (Intercept) 0.000e+00
+ grid     (Intercept) 2.218e-02
+ change   (Intercept) 9.660e-03
+ Residual             2.836e-01
+Number of obs: 18721, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.007757     0.025482     0.015131  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    6317.9                 
+SNvsC   1 6320.1 4.2258 0.03981 *
+SvsN    1 6316.1 0.2059 0.65003  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5647.44
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.00000 
+ featvar  (Intercept) 0.12655 
+ tree     (Intercept) 0.00000 
+ grid     (Intercept) 0.01967 
+ change   (Intercept) 0.02491 
+ Residual             0.27941 
+Number of obs: 18294, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.010069     0.033235     0.007112  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT  Pr(Chi)   
+<none>    5645.3                   
+SNvsC   1 5650.1 6.8925 0.008656 **
+SvsN    1 5643.3 0.0586 0.808727   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5827.232
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.01097 
+ featvar  (Intercept) 0.12112 
+ tree     (Intercept) 0.00000 
+ grid     (Intercept) 0.01846 
+ change   (Intercept) 0.02207 
+ Residual             0.28026 
+Number of obs: 18471, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01108      0.03884      0.01339  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT  Pr(Chi)   
+<none>    5824.8                   
+SNvsC   1 5832.2 9.4157 0.002151 **
+SvsN    1 5823.1 0.3131 0.575770   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5308.571
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.005434
+ featvar  (Intercept) 0.120655
+ tree     (Intercept) 0.000000
+ grid     (Intercept) 0.044281
+ change   (Intercept) 0.009937
+ Residual             0.276478
+Number of obs: 18460, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.014000    -0.001681     0.058507  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    5306.6                 
+SNvsC   1 5304.6 0.0170 0.89635  
+SvsN    1 5308.7 4.1275 0.04219 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5357.415
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.00000 
+ featvar  (Intercept) 0.12327 
+ tree     (Intercept) 0.00275 
+ grid     (Intercept) 0.03338 
+ change   (Intercept) 0.01935 
+ Residual             0.27700 
+Number of obs: 18392, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01296      0.01446      0.03499  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)
+<none>    5355.4               
+SNvsC   1 5354.8 1.4565  0.2275
+SvsN    1 5354.9 1.5133  0.2186
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5646.892
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.00000 
+ featvar  (Intercept) 0.12676 
+ tree     (Intercept) 0.00000 
+ grid     (Intercept) 0.02595 
+ change   (Intercept) 0.02041 
+ Residual             0.27901 
+Number of obs: 18466, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01124      0.03166      0.02034  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    5644.7                 
+SNvsC   1 5648.7 6.0481 0.01392 *
+SvsN    1 5643.3 0.5974 0.43956  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 6063.837
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.009547
+ featvar  (Intercept) 0.126739
+ tree     (Intercept) 0.000000
+ grid     (Intercept) 0.025026
+ change   (Intercept) 0.020004
+ Residual             0.282403
+Number of obs: 18323, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01574      0.03217      0.02793  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    6061.7                 
+SNvsC   1 6065.8 6.1395 0.01322 *
+SvsN    1 6061.0 1.3611 0.24335  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5599.921
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.00320 
+ featvar  (Intercept) 0.12572 
+ tree     (Intercept) 0.00000 
+ grid     (Intercept) 0.01659 
+ change   (Intercept) 0.01464 
+ Residual             0.27885 
+Number of obs: 18379, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01119      0.02183      0.01704  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    5597.1                 
+SNvsC   1 5598.4 3.2828 0.07001 .
+SvsN    1 5595.6 0.4848 0.48627  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5255.761
+Random effects:
+ Groups   Name        Std.Dev. 
+ iter     (Intercept) 1.520e-09
+ featvar  (Intercept) 1.288e-01
+ tree     (Intercept) 0.000e+00
+ grid     (Intercept) 1.737e-02
+ change   (Intercept) 1.886e-02
+ Residual             2.762e-01
+Number of obs: 18389, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01073      0.03991      0.02040  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT  Pr(Chi)   
+<none>    5253.2                   
+SNvsC   1 5261.0 9.7746 0.001769 **
+SvsN    1 5252.0 0.8138 0.367007   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 6181.7
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.00000 
+ featvar  (Intercept) 0.11853 
+ tree     (Intercept) 0.00000 
+ grid     (Intercept) 0.02115 
+ change   (Intercept) 0.01589 
+ Residual             0.28324 
+Number of obs: 18455, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01358      0.03077      0.02114  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    6179.1                 
+SNvsC   1 6182.9 5.7914 0.01611 *
+SvsN    1 6177.7 0.6148 0.43298  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5545.982
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.00000 
+ featvar  (Intercept) 0.11994 
+ tree     (Intercept) 0.00000 
+ grid     (Intercept) 0.01757 
+ change   (Intercept) 0.02096 
+ Residual             0.27833 
+Number of obs: 18467, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.007203     0.038316     0.003160  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT  Pr(Chi)   
+<none>    5543.5                   
+SNvsC   1 5550.7 9.2871 0.002308 **
+SvsN    1 5541.5 0.0022 0.962666   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5457.564
+Random effects:
+ Groups   Name        Std.Dev. 
+ iter     (Intercept) 5.288e-08
+ featvar  (Intercept) 1.265e-01
+ tree     (Intercept) 0.000e+00
+ grid     (Intercept) 2.391e-02
+ change   (Intercept) 1.500e-02
+ Residual             2.780e-01
+Number of obs: 18290, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.009624     0.035816     0.021542  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT  Pr(Chi)   
+<none>    5455.1                   
+SNvsC   1 5460.8 7.7364 0.005412 **
+SvsN    1 5453.8 0.7220 0.395500   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 6316.273
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.00000 
+ featvar  (Intercept) 0.12265 
+ tree     (Intercept) 0.00000 
+ grid     (Intercept) 0.03194 
+ change   (Intercept) 0.02083 
+ Residual             0.28412 
+Number of obs: 18492, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+    0.01312      0.02852      0.03774  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    6314.3                 
+SNvsC   1 6316.9 4.6607 0.03086 *
+SvsN    1 6314.4 2.0700 0.15022  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5685.148
+Random effects:
+ Groups   Name        Std.Dev. 
+ iter     (Intercept) 1.952e-08
+ featvar  (Intercept) 1.279e-01
+ tree     (Intercept) 3.374e-08
+ grid     (Intercept) 1.358e-02
+ change   (Intercept) 1.509e-02
+ Residual             2.795e-01
+Number of obs: 18392, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.009531     0.035896     0.013765  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT  Pr(Chi)   
+<none>    5682.4                   
+SNvsC   1 5688.6 8.2668 0.004038 **
+SvsN    1 5680.7 0.3886 0.533042   
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Linear mixed model fit by REML ['lmerMod']
+Formula: pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 |  
+    featvar) + (1 | change)
+   Data: changes.small
+REML criterion at convergence: 5550.833
+Random effects:
+ Groups   Name        Std.Dev.
+ iter     (Intercept) 0.005016
+ featvar  (Intercept) 0.121002
+ tree     (Intercept) 0.000000
+ grid     (Intercept) 0.021334
+ change   (Intercept) 0.015593
+ Residual             0.278267
+Number of obs: 18488, groups:  
+iter, 100; featvar, 99; tree, 18; grid, 5; change, 2
+Fixed Effects:
+(Intercept)        SNvsC         SvsN  
+   0.006422     0.028596     0.002141  
+Single term deletions
+
+Model:
+pc2 ~ SNvsC + SvsN + (1 | iter) + (1 | tree) + (1 | grid) + (1 | 
+    featvar) + (1 | change)
+       Df    AIC    LRT Pr(Chi)  
+<none>    5548.2                 
+SNvsC   1 5551.6 5.3698 0.02049 *
+SvsN    1 5546.2 0.0023 0.96144  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+[1] "Results of Fisher combined probability test"
+[1] "SNvsC: 2.56800066266834e-17"
+[1] "SvsN: 0.49414259266335"

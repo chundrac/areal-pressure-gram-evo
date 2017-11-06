@@ -1,0 +1,215 @@
+Rank & Grid & Feature & Variant & Change & Condition & PC2\\
+214 & *Word order & Adpositions & Prep & gain & N & -0.66\\
+213 & ALIGNMENT & Noun: Present Progressive & N:PROG:A=Sa? & loss & C & -0.53\\
+212 & Nominal morphology & Pronominal Cases & AGGL.CASE.NR & loss & N & -0.48\\
+211 & Nominal morphology & Pronominal Cases & AGGL.CASE.NR & gain & N & -0.45\\
+210 & Word order & Adpositions & Post & loss & N & -0.4\\
+209 & Word order & Clitic pronouns participle & 2nd position & loss & N & -0.35\\
+208 & *ALIGNMENT & Verb: Present Progressive & V:PROG:Sa=So? & gain & S & -0.35\\
+207 & Word order & Noun-adjective & AN & loss & N & -0.34\\
+206 & Word order & Clitic pronouns infinitive & 2nd position & loss & N & -0.33\\
+205 & *Nominal morphology & Gender / Noun class & <5 GENDER & loss & S & -0.32\\
+204 & *Verbal morphology & simple PAST, DAT & PST:DAT-Gender-AGR & gain & C & -0.32\\
+203 & *ALIGNMENT & Noun: Present Progressive & N:PROG:A=Sa? & gain & S & -0.3\\
+202 & *Verbal morphology & simple PAST, DAT & PST:DAT-Gender-AGR & loss & S & -0.3\\
+201 & *ALIGNMENT & Compare PROG-PAST & PROG_So=PST_So & gain & S & -0.3\\
+200 & *ALIGNMENT & Verb: Present Progressive & V:PROG:A=Sa? & gain & S & -0.29\\
+199 & *Nominal morphology & Gender / Noun class & <5 GENDER & gain & C & -0.29\\
+198 & Word order & Noun-relative clause & RelN & loss & N & -0.28\\
+197 & *ALIGNMENT & Verb: Present Progressive & V:PROG:Sa=So? & loss & C & -0.26\\
+196 & Word order & Clitic pronouns finite verb & 2nd position & loss & N & -0.26\\
+195 & ALIGNMENT & Reflexive Pronoun in trans. Clause & REFL-ref-O & loss & N & -0.24\\
+194 & ALIGNMENT & Reflexive Pronoun in trans. Clause & REFL-ref-A & gain & N & -0.23\\
+193 & Word order & Subordinate clause & V2 & gain & N & -0.22\\
+192 & *ALIGNMENT & Compare PROG-PAST & PROG_So=PST_So & loss & C & -0.22\\
+191 & Word order & Noun-relative clause & NRel & gain & N & -0.2\\
+190 & Nominal morphology & Definiteness marking & DEF-LAST & loss & S & -0.19\\
+189 & Word order & Noun-Possessor & N-Poss & gain & N & -0.18\\
+188 & *Nominal morphology & Pronominal Cases & <7 Cases & loss & S & -0.18\\
+187 & Word order & Main clauses & VSO & gain & N & -0.17\\
+186 & *Verbal morphology & present progressive, A & PROG:A-Gender-AGR & loss & S & -0.17\\
+185 & Nominal morphology & Definiteness marking & DEF-LAST & gain & C & -0.16\\
+184 & Word order & Participle & VO & gain & N & -0.16\\
+183 & *Verbal morphology & present progressive, O & PROG:O-AGR-FULL & loss & S & -0.15\\
+182 & *Verbal morphology & present progressive, DAT & PROG:DAT-AGR-FULL & loss & S & -0.15\\
+181 & ALIGNMENT & Verb: Present Progressive & V:PROG: O=So? & loss & C & -0.14\\
+180 & Nominal morphology & Pronominal Cases & AGGL.CASE & loss & N & -0.14\\
+179 & Word order & Clitic pronouns finite verb & 2nd position & gain & N & -0.13\\
+178 & TENSE & Future & FUT.Participle & loss & N & -0.13\\
+177 & Word order & Clitic pronouns infinitive & 2nd position & gain & N & -0.13\\
+176 & ALIGNMENT & Reflexive Pronoun in trans. Clause & REFL-ref-A & loss & N & -0.12\\
+175 & ALIGNMENT & Verb: Present Progressive & V:PROG:A=Sa? & loss & C & -0.12\\
+174 & Word order & Clitic pronouns participle & 2nd position & gain & N & -0.12\\
+173 & ALIGNMENT & Reflexive Pronoun in trans. Clause & REFL-ref-O & gain & N & -0.12\\
+172 & Word order & Noun-Possessor & Poss-N & loss & N & -0.12\\
+171 & TENSE & Future & FUT.Particle & loss & N & -0.12\\
+170 & Nominal morphology & Nominal cases & <7 Cases & loss & S & -0.12\\
+169 & ALIGNMENT & Pronoun: Present Progressive & P:PROG: O=So? & loss & C & -0.11\\
+168 & *Nominal morphology & Pronominal Cases & VOC & loss & S & -0.11\\
+167 & ALIGNMENT & Pronoun: Present Progressive & P:PROG:A=O? & loss & C & -0.11\\
+166 & Nominal morphology & Definiteness marking & N-DEF & loss & N & -0.11\\
+165 & Verbal morphology & present progressive, A & PROG:A-Gender-AGR & gain & C & -0.11\\
+164 & ALIGNMENT & Pronoun: Simple Past & P:PST:A=Sa? & gain & S & -0.1\\
+163 & TENSE & Future & PERF.FUT & gain & N & -0.09\\
+162 & Nominal morphology & Gender / Noun class & ANIM & loss & S & -0.09\\
+161 & ALIGNMENT & Noun: Simple Past & N:PST:A=Sa? & gain & S & -0.09\\
+160 & Word order & WH-element & WH-initial & loss & N & -0.09\\
+159 & ALIGNMENT & Verb: Simple Past & V:PST:A=O? & loss & C & -0.09\\
+158 & Nominal morphology & Nominal cases & GEN/DAT & gain & C & -0.09\\
+157 & Word order & Main clauses & V2 & gain & N & -0.09\\
+156 & ALIGNMENT & Compare PROG-PAST & PAST_A=PROG_O & loss & S & -0.09\\
+155 & TENSE & Continous present & Present ???? & gain & N & -0.08\\
+154 & ALIGNMENT & Verb: Present Progressive & V:PROG:A=O? & loss & C & -0.08\\
+153 & *Verbal morphology & simple PAST, O & PST:O-AGR-FULL & loss & S & -0.08\\
+152 & *Verbal morphology & simple PAST, DAT & PST:DAT-AGR-FULL & loss & S & -0.08\\
+151 & Nominal morphology & Pronominal Cases & AGGL.CASE & gain & N & -0.07\\
+150 & Word order & Participle & OV & loss & N & -0.07\\
+149 & Nominal morphology & Definiteness marking & ADJ-DEF & loss & S & -0.07\\
+148 & ALIGNMENT & Pronoun: Simple Past & P:PST:A=O? & gain & S & -0.07\\
+147 & Nominal morphology & Nominal cases & AGGL.CASE & gain & S & -0.07\\
+146 & Word order & Subordinate clause & VSO & gain & N & -0.07\\
+145 & Nominal morphology & Nominal cases & AGG.CASE.NR & loss & N & -0.07\\
+144 & *Verbal morphology & present progressive, O & PROG:NO-O-AGR & gain & S & -0.07\\
+143 & *Word order & Subordinate clause & VSO & loss & N & -0.07\\
+142 & ALIGNMENT & Compare PROG-PAST & PAST_A=PROG_O & gain & C & -0.07\\
+141 & ALIGNMENT & Pronoun: Present Progressive & P:PROG: O=So? & gain & S & -0.07\\
+140 & Nominal morphology & Gender / Noun class & M/F & gain & C & -0.06\\
+139 & ALIGNMENT & Verb: Simple Past & V:PST:A=Sa? & gain & S & -0.06\\
+138 & Verbal morphology & simple PAST, O & PST:O-Gender-AGR & loss & S & -0.06\\
+137 & Verbal morphology & present progressive, A & PROG:A-AGR-FULL & gain & C & -0.05\\
+136 & Verbal morphology & simple PAST, DAT & PST:NO-DAT-AGR & loss & C & -0.05\\
+135 & *Verbal morphology & simple PAST, DAT & PST:NO-DAT-AGR & gain & S & -0.04\\
+134 & Word order & Infinitive & VO & gain & N & -0.04\\
+133 & Verbal morphology & present progressive, A & PROG:NO-A-AGR & loss & C & -0.04\\
+132 & ALIGNMENT & Pronoun: Present Progressive & P:PROG:A=O? & gain & S & -0.04\\
+131 & Verbal morphology & present progressive, O & PROG:NO-O-AGR & loss & C & -0.04\\
+130 & Verbal morphology & simple PAST, A & PST:NO-A-AGR & loss & C & -0.04\\
+129 & ALIGNMENT & Pronoun: Simple Past & P:PST:A=Sa? & loss & C & -0.03\\
+128 & Verbal morphology & present progressive, DAT & PROG:NO-DAT-AGR & gain & S & -0.03\\
+127 & Nominal morphology & Case marking & CASE-LAST & loss & S & -0.03\\
+126 & Verbal morphology & simple PAST, O & PST:NO-O-AGR & loss & C & -0.02\\
+125 & *Verbal morphology & present progressive, DAT & PROG:DAT-AGR-FULL & gain & C & -0.02\\
+124 & *Verbal morphology & present progressive, O & PROG:O-AGR-FULL & gain & C & -0.02\\
+123 & Verbal morphology & simple PAST, A & PST:A-Gender-AGR & loss & S & -0.02\\
+122 & TENSE & Continous present & Present ???? & loss & N & -0.02\\
+121 & ALIGNMENT & Noun: Simple Past & N:PST:A=Sa? & loss & C & -0.02\\
+120 & Nominal morphology & Preposition agreement & PRON-AGR & gain & C & -0.01\\
+119 & ALIGNMENT & Verb: Simple Past & V:PST: O=So? & loss & C & -0.01\\
+118 & Nominal morphology & Definiteness marking & DEF.ART & gain & N & -0.01\\
+117 & Word order & Noun-relative clause & RelN & gain & N & 0\\
+116 & Nominal morphology & Case marking & CASE-LAST & gain & C & 0\\
+115 & Word order & WH-element & WH-initial & gain & N & 0\\
+114 & *Verbal morphology & simple PAST, DAT & PST:DAT-AGR-FULL & gain & C & 0\\
+113 & Verbal morphology & simple PAST, O & PST:NO-O-AGR & gain & S & 0.01\\
+112 & Word order & Noun-adjective & AN & gain & N & 0.01\\
+111 & Nominal morphology & Nominal cases & O-case & gain & C & 0.01\\
+110 & ALIGNMENT & Verb: Simple Past & V:PST:A=Sa? & loss & C & 0.01\\
+109 & Nominal morphology & Case marking & CASE-ADJ & gain & C & 0.01\\
+108 & *Nominal morphology & Pronominal Cases & VOC & gain & C & 0.01\\
+107 & ALIGNMENT & Pronoun: Simple Past & P:PST: O=So? & gain & S & 0.02\\
+106 & Nominal morphology & Definiteness marking & N-DEF & gain & N & 0.02\\
+105 & *Nominal morphology & Pronominal Cases & A≠O & gain & C & 0.02\\
+104 & ALIGNMENT & Noun: Present Progressive & N:PROG:A=O? & loss & C & 0.02\\
+103 & ALIGNMENT & Noun: Simple Past & N:PST:A=O? & loss & C & 0.02\\
+102 & Verbal morphology & present progressive, DAT & PROG:NO-DAT-AGR & loss & C & 0.02\\
+101 & ALIGNMENT & Noun: Present Progressive & N:PROG: O=So? & loss & C & 0.02\\
+100 & Verbal morphology & present progressive, A & PROG:NO-A-AGR & gain & S & 0.02\\
+99 & ALIGNMENT & Pronoun: Simple Past & P:PST: O=So? & loss & C & 0.03\\
+98 & *Word order & Main clauses & VSO & loss & N & 0.03\\
+97 & Word order & Subordinate clause & V2 & loss & N & 0.03\\
+96 & Nominal morphology & Definiteness marking & DEF-FIRST & loss & S & 0.03\\
+95 & Verbal morphology & simple PAST, A & PST:A-Gender-AGR & gain & C & 0.03\\
+94 & Word order & WH-element & WH-V & loss & N & 0.03\\
+93 & Word order & Clitic pronouns finite verb & OV & gain & N & 0.03\\
+92 & Verbal morphology & simple PAST, O & PST:O-Gender-AGR & gain & C & 0.03\\
+91 & ALIGNMENT & Compare PROG-PAST & PROG_A=PST_O & gain & C & 0.04\\
+90 & Word order & Clitic pronouns infinitive & VO & gain & N & 0.04\\
+89 & TENSE & Future & FUT.AUX & gain & N & 0.04\\
+88 & ALIGNMENT & Verb: Present Progressive & V:PROG: O=So? & gain & S & 0.04\\
+87 & Nominal morphology & Pronominal Cases & OBL-Cases & gain & C & 0.04\\
+86 & Nominal morphology & Pronominal Cases & DAT≠O & gain & C & 0.04\\
+85 & Verbal morphology & simple PAST, A & PST:A-AGR-FULL & loss & S & 0.05\\
+84 & Nominal morphology & Nominal cases & DAT & gain & C & 0.05\\
+83 & Word order & Clitic pronouns finite verb & OV & loss & N & 0.05\\
+82 & Word order & Subordinate clause & SVO & loss & N & 0.05\\
+81 & TENSE & Future & FUT.Synth & gain & N & 0.05\\
+80 & Word order & Noun-relative clause & NRel & loss & N & 0.05\\
+79 & Nominal morphology & Definiteness marking & DEF-FIRST & gain & C & 0.05\\
+78 & TENSE & Future & FUT.Participle & gain & N & 0.05\\
+77 & Nominal morphology & Nominal cases & AGGL.CASE & loss & N & 0.06\\
+76 & Word order & Noun-Possessor & N-Poss & loss & N & 0.06\\
+75 & TENSE & Continous present & Progressive present & gain & N & 0.06\\
+74 & TENSE & Continous present & Progressive present & loss & N & 0.06\\
+73 & Nominal morphology & Case marking & CASE-ART & gain & C & 0.06\\
+72 & Nominal morphology & Nominal cases & GEN & loss & S & 0.07\\
+71 & Nominal morphology & Gender / Noun class & M/F & loss & S & 0.07\\
+70 & ALIGNMENT & Compare PROG-PAST & PROG_A=PST_O & loss & S & 0.07\\
+69 & Word order & Noun-Possessor & Poss-N & gain & N & 0.07\\
+68 & Nominal morphology & Pronominal Cases & DAT≠O & loss & S & 0.08\\
+67 & Nominal morphology & Case marking & CASE-N & gain & C & 0.08\\
+66 & Nominal morphology & Gender / Noun class & NEUTR & loss & S & 0.08\\
+65 & *ALIGNMENT & Pronoun: Simple Past & P:PST:A=O? & loss & C & 0.08\\
+64 & Word order & Subordinate clause & SOV & loss & N & 0.08\\
+63 & Word order & WH-element & WH-V & gain & N & 0.08\\
+62 & ALIGNMENT & Verb: Simple Past & V:PST: O=So? & gain & S & 0.08\\
+61 & Nominal morphology & Gender / Noun class & ANIM & gain & C & 0.09\\
+60 & ALIGNMENT & Verb: Present Progressive & V:PROG:A=O? & gain & S & 0.09\\
+59 & ALIGNMENT & Verb: Simple Past & V:PST:A=O? & gain & S & 0.09\\
+58 & Verbal morphology & simple PAST, O & PST:O-AGR-FULL & gain & C & 0.09\\
+57 & ALIGNMENT & Noun: Simple Past & N:PST: O=So? & loss & C & 0.09\\
+56 & Word order & Clitic pronouns infinitive & OV & loss & N & 0.09\\
+55 & Word order & Clitic pronouns finite verb & VO & loss & N & 0.09\\
+54 & Nominal morphology & Nominal cases & AGG.CASE.NR & gain & S & 0.09\\
+53 & Verbal morphology & present progressive, A & PROG:A-AGR-FULL & loss & S & 0.1\\
+52 & Nominal morphology & Gender agreement & PRED-ADJ & loss & S & 0.1\\
+51 & Nominal morphology & Nominal cases & <7 Cases & gain & C & 0.1\\
+50 & Verbal morphology & simple PAST, A & PST:NO-A-AGR & gain & S & 0.1\\
+49 & Nominal morphology & Nominal cases & GEN & gain & C & 0.1\\
+48 & Word order & Clitic pronouns infinitive & VO & loss & N & 0.11\\
+47 & Nominal morphology & Pronominal Cases & <7 Cases & gain & C & 0.11\\
+46 & Nominal morphology & Pronominal Cases & OBL-Cases & loss & S & 0.11\\
+45 & Nominal morphology & Definiteness marking & ADJ-DEF & gain & C & 0.11\\
+44 & Nominal morphology & Pronominal Cases & A≠O & loss & S & 0.11\\
+43 & Word order & Clitic pronouns participle & VO & gain & N & 0.12\\
+42 & Word order & Main clauses & SVO & loss & N & 0.12\\
+41 & Word order & Adpositions & Post & gain & N & 0.12\\
+40 & Nominal morphology & Definiteness marking & DEF.ART & loss & N & 0.12\\
+39 & TENSE & Future & FUT.AUX & loss & N & 0.13\\
+38 & Nominal morphology & Nominal cases & DAT & loss & S & 0.13\\
+37 & Word order & Clitic pronouns participle & OV & gain & N & 0.14\\
+36 & Word order & Clitic pronouns participle & VO & loss & N & 0.14\\
+35 & Nominal morphology & Nominal cases & OBL-Cases & loss & S & 0.14\\
+34 & Nominal morphology & Gender agreement & PRED-ADJ & gain & C & 0.14\\
+33 & Nominal morphology & Nominal cases & VOC & gain & C & 0.14\\
+32 & Word order & Main clauses & SOV & loss & N & 0.14\\
+31 & ALIGNMENT & Noun: Simple Past & N:PST: O=So? & gain & S & 0.15\\
+30 & ALIGNMENT & Noun: Simple Past & N:PST:A=O? & gain & S & 0.15\\
+29 & Word order & Clitic pronouns infinitive & OV & gain & N & 0.16\\
+28 & Nominal morphology & Nominal cases & O-case & loss & S & 0.16\\
+27 & Nominal morphology & Case marking & CASE-N & loss & S & 0.17\\
+26 & Word order & Clitic pronouns finite verb & VO & gain & N & 0.17\\
+25 & Word order & Main clauses & SVO & gain & N & 0.17\\
+24 & Verbal morphology & simple PAST, A & PST:A-AGR-FULL & gain & C & 0.17\\
+23 & Nominal morphology & Case marking & CASE-ADJ & loss & S & 0.18\\
+22 & ALIGNMENT & Noun: Present Progressive & N:PROG: O=So? & gain & S & 0.18\\
+21 & Nominal morphology & Nominal cases & OBL-Cases & gain & C & 0.18\\
+20 & *Nominal morphology & Preposition agreement & PRON-AGR & loss & S & 0.18\\
+19 & ALIGNMENT & Noun: Present Progressive & N:PROG:A=O? & gain & S & 0.19\\
+18 & Word order & Main clauses & SOV & gain & N & 0.19\\
+17 & Nominal morphology & Case marking & CASE-ART & loss & S & 0.19\\
+16 & Nominal morphology & Nominal cases & GEN/DAT & loss & S & 0.19\\
+15 & Word order & Adpositions & Prep & loss & N & 0.2\\
+14 & Nominal morphology & Gender / Noun class & NEUTR & gain & C & 0.2\\
+13 & Word order & Infinitive & OV & loss & N & 0.2\\
+12 & Word order & Subordinate clause & SVO & gain & N & 0.2\\
+11 & TENSE & Future & FUT.Particle & gain & N & 0.21\\
+10 & Word order & Clitic pronouns participle & OV & loss & N & 0.21\\
+9 & Word order & Infinitive & OV & gain & N & 0.21\\
+8 & Nominal morphology & Nominal cases & VOC & loss & S & 0.23\\
+7 & TENSE & Future & FUT.Synth & loss & N & 0.23\\
+6 & Word order & Subordinate clause & SOV & gain & N & 0.24\\
+5 & Word order & Infinitive & VO & loss & N & 0.28\\
+4 & Word order & Main clauses & V2 & loss & N & 0.29\\
+3 & TENSE & Future & PERF.FUT & loss & N & 0.38\\
+2 & Word order & Participle & VO & loss & N & 0.41\\
+1 & Word order & Participle & OV & gain & N & 0.5\\
