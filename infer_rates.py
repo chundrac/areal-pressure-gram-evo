@@ -10,7 +10,6 @@ import numpy as np
 from numpy import log,exp
 from numpy.random import normal,uniform
 
-langdict,revlangdict,locs,brlens,parents,children=genphy() #genrate node locations, branch lengths, parents, children, using ugly-looking function
 
 def genpruneorder(): #arrange branches of tree i in proper order for post-order traversal of tree (cf. Felsenstein 1981)
     pruneorders = []
@@ -32,7 +31,6 @@ def genpruneorder(): #arrange branches of tree i in proper order for post-order 
     return pruneorders
 
 
-pruneorders = genpruneorder()
 def binarizedata(): #convert binary tip data into tuples (0,1), (1,0), (1,1) (if missing, cf. Felsenstein 2004, ch. 16)
     data = []
     for l in open('lundic_matrix_1130.csv','r'):
@@ -53,14 +51,6 @@ def binarizedata(): #convert binary tip data into tuples (0,1), (1,0), (1,1) (if
                 if l[i] == 'NA':
                     bindata[data[0][i]][langdict[l[0]]] = (1,1)
     return bindata
-
-
-bindata = binarizedata()
-for f in bindata.keys(): #get rid of features that do not differ across IE languages
-    if (0,1) not in bindata[f].values() or (1,0) not in bindata[f].values():
-#        print f
-        bindata.pop(f)
-
 
 
 def makemat(a,b,t): #generate transitional matrix from infinitesimal rates (faster than scipy.linalg, I think
@@ -141,6 +131,13 @@ def inference(feat,chains=3,iters=10000):
 def gelmandiag(f):
     return [(np.var(posterior[f][0]['a']+posterior[f][1]['a']+posterior[f][2]['a'])/((np.var(posterior[f][0]['a'])+np.var(posterior[f][1]['a'])+np.var(posterior[f][2]['a']))/3))**.5,(np.var(posterior[f][0]['b']+posterior[f][1]['b']+posterior[f][2]['b'])/((np.var(posterior[f][0]['b'])+np.var(posterior[f][1]['b'])+np.var(posterior[f][2]['b']))/3))**.5]
 
+langdict,revlangdict,locs,brlens,parents,children=genphy() #genrate node locations, branch lengths, parents, children, using ugly-looking function
+pruneorders = genpruneorder()
+bindata = binarizedata()
+for f in bindata.keys(): #get rid of features that do not differ across IE languages
+    if (0,1) not in bindata[f].values() or (1,0) not in bindata[f].values():
+#        print f
+        bindata.pop(f)
 
 
 for feat in sorted(bindata.keys()):
