@@ -1,6 +1,6 @@
 This repository contains code used for analyses in the paper "Areal Pressure and Grammatical Evolution," to appear in Diachronica 35.
 
-Python scripts are written in Python 2.7.
+Python scripts are written for Python 2.
 
 infer_rates.py infers evolutionary rates for each feature, outputting a file feature_rates.txt
 
