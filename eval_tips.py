@@ -183,7 +183,8 @@ for f in bindata.keys():
     eval[f]=defaultdict(list)
     for t in tips[f]:
         for s in states[f][t]:
-            eval[f][t].append(1-abs(bindata[f][t].index(1)-s))
+            if bindata[f][t] != (1,1):
+                eval[f][t].append(1-abs(bindata[f][t].index(1)-s))
 
 
 def poolavg():
